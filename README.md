@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **shantanuraj0/shantanuraj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **rajshan269@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Language and Tools:</h3>
 <p align="left">
 </p>
 
