@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 
-- 👯 I’m looking to collaborate on **Web development projects.**
-- 🌱 I’m currently learning **Node.js**
+- 👯 I'm a Software Developer 🔭.
+- 🌱 I enjoy problem solving and working on real-world projects.
 
 - 📫 How to reach me **rajshan269@gmail.com**
 
