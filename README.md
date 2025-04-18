@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I'm a Software Developer 🔭.
 - 🌱 I enjoy problem solving and working on real-world projects.
 
-- 📫 How to reach me **rajshan269@gmail.com**
+- 📫 How to reach me **shantanu.raj.cse@gmail.com**
 
 
 <p align="left">
